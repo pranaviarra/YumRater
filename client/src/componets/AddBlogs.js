@@ -60,10 +60,10 @@ const AddBlogs = () => {
             variant="h2"
             textAlign={"center"}
           >
-            Post Your Blog
+            Post Your Review
           </Typography>
           <InputLabel className={classes.font} sx={labelStyles}>
-            Title
+            Hotel and Location
           </InputLabel>
           <TextField
             className={classes.font}
@@ -86,7 +86,7 @@ const AddBlogs = () => {
             value={inputs.description}
           />
           <InputLabel className={classes.font} sx={labelStyles}>
-            ImageURL
+            Image(url)
           </InputLabel>
           <TextField
             className={classes.font}
@@ -101,7 +101,7 @@ const AddBlogs = () => {
             variant="contained"
             type="submit"
           >
-            Submit
+            POST UP!
           </Button>
         </Box>
       </form>

@@ -26,9 +26,9 @@ const Header = () => {
   const [value, setValue] = useState();
 
   return (
-    <AppBar position="sticky" sx={{ background: `${theme.bg}` }}>
+    <AppBar position="sticky" sx={{ backgroundColor: '#001861' }}>
       <Toolbar>
-        <Typography variant="h4">BlogsApp</Typography>
+        <Typography variant="h4">YumRater</Typography>
         {isLoggedIn && (
           <Box display="flex" marginLeft={"auto"} marginRight="auto">
             <Tabs
@@ -40,19 +40,19 @@ const Header = () => {
                 //className={classes.font}
                 LinkComponent={Link}
                 to="/blogs"
-                label="All Blogs"
+                label="All Reviews"
               />
               <Tab
                 //className={classes.font}
                 LinkComponent={Link}
                 to="/myBlogs"
-                label="My Blogs"
+                label="My Reviews"
               />
               <Tab
                 //className={classes.font}
                 LinkComponent={Link}
                 to="/blogs/add"
-                label="Add Blog"
+                label="Add Review"
               />
             </Tabs>
           </Box>
