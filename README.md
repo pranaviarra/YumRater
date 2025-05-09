@@ -1,24 +1,23 @@
 # Blog App using MERN Stack
 
-Welcome to the Blog App repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share your blogs.
+Welcome to the YumRater - A Food Review application repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share your food reviews.
 
-also visit [E-commerce_website-using-React-Redux](https://github.com/khushi2706/E-commerce-website-using-React-Redux)
 
 ## Functionalities
 
-- **Authentication:** Secure user authentication system to protect your blogs.
-- **Create Blog:** Easily create and publish your blogs with a user-friendly interface.
-- **Delete Blog:** Remove unwanted blogs with a simple delete option.
-- **Update Blog:** Edit and update your blogs as your content evolves.
+- **Authentication:** Secure user authentication system to protect your reviews.
+- **Create Blog:** Easily create and publish your reviews with a user-friendly interface.
+- **Delete Blog:** Remove unwanted reviews with a simple delete option.
 - **View Other User Blogs:** Explore and read blogs published by other users.
 
 ## Screenshots
 
-![Screenshot 1](https://user-images.githubusercontent.com/67452985/172217325-4378400e-60a0-4364-aadb-89e900886a1c.png)
+![Screenshot 2025-05-10 005243](https://github.com/user-attachments/assets/c8a1c4fb-986c-40f8-89d1-94f13e632522)
 
-![Screenshot 2](https://user-images.githubusercontent.com/67452985/172217368-76264e6e-8373-484d-9cd0-3af5920754b1.png)
+![Screenshot 2025-05-10 005310](https://github.com/user-attachments/assets/c534d047-54bd-40b6-be59-e7f870c71943)
 
-![Screenshot 3](https://user-images.githubusercontent.com/67452985/172217649-238abde0-1b29-40fe-a46e-1b5bb03678c8.png)
+![Screenshot 2025-05-10 005323](https://github.com/user-attachments/assets/781d80bc-b820-4579-956d-81b8b136e564)
+
 
 ## Getting Started
 
@@ -57,17 +56,5 @@ cd client && npm start
 
 6. Access the application in your web browser at [http://localhost:3000](http://localhost:3000).
 
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to this project, please feel free to open an issue or Make a PR.
-
-
-## Acknowledgments
-
-We would like to thank all contributors and the open-source community for their support.
-
----
-
-Feel free to explore the codebase and start creating and sharing your blogs with the world! If you have any questions or need assistance, please don't hesitate to reach out.
 
 Happy blogging!
